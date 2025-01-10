@@ -1,23 +1,23 @@
 央视,#genre#
 
-CCTV1,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221226016/2.m3u8
-CCTV2,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225588/2.m3u8
-CCTV3,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221226021/2.m3u8
-CCTV4,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221226428/2.m3u8
-CCTV5,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221226019/2.m3u8
-CCTV6,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221226010/2.m3u8
-CCTV7,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225733/2.m3u8
-CCTV8,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221226008/2.m3u8
-CCTV9,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225734/2.m3u8
-CCTV10,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225730/2.m3u8
-CCTV11,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225597/2.m3u8
-CCTV12,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225731/2.m3u8
-CCTV13,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221226537/2.m3u8
-CCTV14,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225732/2.m3u8
-CCTV15,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225601/2.m3u8
-CCTV16,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221226100/2.m3u8
-CCTV17,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225765/2.m3u8
-CCTV5+,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225603/2.m3u8
+CCTV1,http://[2409:8087:74d9:21::6]:80/270000001128/9900000001/index.m3u8
+CCTV2,http://[2409:8087:74d9:21::6]:80/270000001128/9900000502/index.m3u8
+CCTV3,http://[2409:8087:74d9:21::6]:80/270000001128/9900000003/index.m3u8
+CCTV4,http://[2409:8087:74d9:21::6]:80/270000001128/9900000503/index.m3u8
+CCTV5,http://[2409:8087:74d9:21::6]:80/270000001128/9900000005/index.m3u8
+CCTV5+,http://[2409:8087:74d9:21::6]:80/270000001128/9900000507/index.m3u8
+CCTV6,http://[2409:8087:74d9:21::6]:80/270000001128/9900000006/index.m3u8
+CCTV7,http://[2409:8087:74d9:21::6]:80/270000001128/9900000504/index.m3u8
+CCTV8,http://[2409:8087:74d9:21::6]:80/270000001128/9900000008/index.m3u8
+CCTV9,http://[2409:8087:74d9:21::6]:80/270000001128/9900000505/index.m3u8
+CCTV10,http://[2409:8087:74d9:21::6]:80/270000001128/9900000506/index.m3u8
+CCTV11,http://[2409:8087:74d9:21::6]:80/270000001128/9900000508/index.m3u8
+CCTV12,http://[2409:8087:74d9:21::6]:80/270000001128/9900000509/index.m3u8
+CCTV13,http://[2409:8087:74d9:21::6]:80/270000001128/9900000510/index.m3u8
+CCTV14,http://[2409:8087:74d9:21::6]:80/270000001128/9900000511/index.m3u8
+CCTV15,http://[2409:8087:74d9:21::6]:80/270000001128/9900000512/index.m3u8
+CCTV16,http://[2409:8087:74d9:21::6]:80/270000001128/9900000016/index.m3u8
+CCTV17,http://[2409:8087:74d9:21::9]:80/270000001128/9900000513/index.m3u8
 
 卫视,#genre#
 
@@ -64,4 +64,3 @@ CCTV5+,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/322
 
 欧美影院,http://39.134.136.161:6610/000000001000/2000000004000000005/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000004000000005
 亚洲影院,http://39.134.136.161:6610/000000001000/2000000004000000006/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000004000000006
-高清大片,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1598749465_-366256696/wd_r3/cctv/gaoqingdapian/600/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073748&ContentId=265218862&timezone=UTC&mtv_session=3a6b1c7737e83442360bc74c1db28160&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=6c0357e0703b1ce5780f688addd61842

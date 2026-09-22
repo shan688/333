@@ -1,4 +1,4 @@
-河南移动02(内网),#genre#
+央视(内网),#genre#
 CCTV1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
 CCTV2,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226306/index.m3u8
 CCTV3,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226308/index.m3u8
@@ -19,8 +19,9 @@ CCTV17,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u
 CGTN,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
 CGTN英语,http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226976/10000100000000060000000008219344_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
 CETV,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226471/index.m3u8
-河南4K,http://iptv.cdn.ha.chinamobile.com:80/PLTV/88888888/224/3221226526/1.m3u8
-河南卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
+
+卫视(内网),#genre#
+河南卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226938/1.m3u8?fmt=ts2hls
 湖南卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226431/index.m3u8
 浙江卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226448/index.m3u8
 江苏卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226451/index.m3u8
